@@ -3,8 +3,11 @@
 **HW Utils** is a crucial script for many of HW Development's scripts. It ensures that these scripts run smoothly and are fully functional.
 
 ## Prerequisites
-- This script is compatible with either **ESX** or **QBCore** frameworks.
+- This script is compatible with either **ESX**, **QBCore**, **OX** frameworks.
 - Ensure you always update to the latest version for optimal performance.
+- Mulitple framework support (ESX, QBX, OX)
+- Discord log with many information
+- Utility functions
 
 ## Installation
 1. Download and place the script in your server's resource directory.
